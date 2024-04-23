@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:modisireesha09@gmail.com"><img src="https://img.shields.io/badge/Email-modisireesha09%40gmail.com-blue" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/modi-sireesha-63ba47279"><img src="https://img.shields.io/badge/LinkedIn-Modi%20Sireesha-blue" alt="LinkedIn"></a>
+  
 </p>
 
 ---
