@@ -18,10 +18,12 @@
 - Others: Bootstrap, Materialize CSS
 
 🚀 Connect with me on:
-- [Twitter](https://twitter.com/_sireeshamodi_)
-- [LinkedIn](https://www.linkedin.com/in/modi-sireesha-63ba47279)
-- [Instagram](https://instagram.com/sireesha_modi)
-- [HackerRank](https://www.hackerrank.com/modisireesha09)
+<p align="left">
+<a href="https://twitter.com/_sireeshamodi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sireeshamodi_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/modi sireesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="modi sireesha" height="30" width="40" /></a>
+<a href="https://instagram.com/sireesha_modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sireesha_modi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/modisireesha09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="modisireesha09" height="30" width="40" /></a>
+</p>
 
 ---
 
