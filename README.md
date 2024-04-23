@@ -8,7 +8,7 @@
 
 ---
 
-🌱 Currently, I'm honing my skills in data science and analysis, delving into machine learning algorithms, mastering data visualization techniques, and tackling real-world datasets. I'm proficient in Python (NumPy, Pandas, Matplotlib), and I'm also exploring AI tools for Excel, Power BI, and data analysis.
+🌱 Currently, I'm honing my skills in data science and analysis, delving into machine learning algorithms, mastering data visualization techniques, and tackling real-world datasets.📚 I'm currently preparing to learn Python and acquire new skills to enhance my capabilities further. and I'm also exploring AI tools for Excel, Power BI, and data analysis.
 
 💬 Feel free to ask me about my expertise in:
 
