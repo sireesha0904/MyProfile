@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Modi Sireesha</h1>
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | Aspiring Data Scientist</h3>
 
-- 🌱 I’m currently learning Data Science Exploration **Programming: Python (NumPy, Pandas, Matplotlib) Machine Learning: Scikit-learn, TensorFlow, Keras Data Analysis: Jupyter Notebook, SQL**
+- 🌱 I’m currently learning Data Science Exploration **Programming: Python (NumPy, Pandas, Matplotlib), AI tools for Excel and Data Analysis**
 
-- 💬 Ask me about **Frontend: HTML, CSS, JavaScript, React.js. Backend: Node.js, Express.js, Java, C. Database: MongoDB, MySQL Others: Bootstrap, Materialize CSS**
+- 💬 Ask me about **Frontend: HTML, CSS, JavaScript, React.js.
+- Backend: Node.js, Express.js, Java, C.
+- Database: MongoDB, MySQL Others: Bootstrap, Materialize CSS**
 
-- 📫 How to reach me **modisireesha09@gmail.com**
+- 📫 How to reach me Email : **modisireesha09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
