@@ -5,11 +5,11 @@
 
 - 💬 Ask me about **Frontend: HTML, CSS, JavaScript, React.js.
   Backend: Node.js, Express.js, Java, C.
-  Database: MongoDB, MySQL
-  Others: Bootstrap, Materialize CSS**
+   Database: MongoDB, MySQL
+   Others: Bootstrap, Materialize CSS**
 
-- 📫 How to reach me Email : **modisireesha09@gmail.com**
-  Linkedin : **https://www.linkedin.com/in/modi-sireesha-63ba47279**
+- 📫 How to reach me Email : **modisireesha09@gmail.com**,
+   Linkedin : **https://www.linkedin.com/in/modi-sireesha-63ba47279**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
