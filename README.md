@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning Data Science Exploration **Programming: Python (NumPy, Pandas, Matplotlib), AI tools for Excel and Data Analysis**
 
-- 💬 Ask me about **Frontend: HTML, CSS, JavaScript, React.js.
-- Backend: Node.js, Express.js, Java, C.
-- Database: MongoDB, MySQL Others: Bootstrap, Materialize CSS**
+- 💬 Ask me about **Frontend: HTML, CSS, JavaScript, React.js./nBackend: Node.js, Express.js, Java, C. /nDatabase: MongoDB, MySQL /nOthers: Bootstrap, Materialize CSS**
 
 - 📫 How to reach me Email : **modisireesha09@gmail.com**
 
