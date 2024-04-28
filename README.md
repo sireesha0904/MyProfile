@@ -8,7 +8,7 @@
 
 ---
 
-🌱 Currently, I'm honing my skills in data science and analysis, delving into machine learning algorithms, mastering data visualization techniques, and tackling real-world datasets.📚 I'm currently preparing to learn Python and acquire new skills to enhance my capabilities further. and I'm also exploring AI tools for Excel, Power BI, and data analysis.
+🌱 Currently, I'm honing my skills in data science and analysis, delving into machine learning algorithms, mastering data visualization techniques, and tackling real-world datasets.📚 I'm currently preparing to  acquire new skills to enhance my capabilities further. and I'm also exploring AI tools for Excel, Power BI, and data analysis.
 
 💬 Feel free to ask me about my expertise in:
 
@@ -41,3 +41,4 @@
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sireesha0904&show_icons=true&locale=en&layout=compact" alt="sireesha0904" /></p>
