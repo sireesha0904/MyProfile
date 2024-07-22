@@ -8,12 +8,20 @@
 
 ---
 
-🌱 Currently, I'm honing my skills in data science and analysis, delving into machine learning algorithms, mastering data visualization techniques, and tackling real-world datasets.📚 I'm currently preparing to  acquire new skills to enhance my capabilities further. and I'm also exploring AI tools for Excel, Power BI, and data analysis.
+## About Me
+I am a Computer Science Engineering student and a passionate Full Stack Developer with a keen interest in software technology. My journey in tech has led me to acquire a diverse skill set, including AI tools related to my courses and experience as a Prompt Engineer. I enjoy exploring new skills and technologies, and 🌱 I'm currently diving deeper into the world of Data Science.
+I'm also exploring AI tools for Excel, Power BI, and data analysis.
+
+## My Skills
+- **Full Stack Development:** Proficient in building end-to-end web applications using modern frameworks and technologies.
+- **AI and Machine Learning:** Hands-on experience with AI tools and techniques as part of my coursework.
+- **Prompt Engineering:** Expertise in crafting prompts to optimize AI model outputs.
+- **Data Science:** Basic knowledge with a strong desire to expand my expertise in this field.
 
 💬 Feel free to ask me about my expertise in:
 
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express.js, Java, C
+- Frontend: HTML, CSS, JavaScript, Angular
+- Backend: Node.js, Python, Java, C
 - Database: MongoDB, MySQL
 - Others: Bootstrap, Materialize CSS
 
@@ -22,7 +30,7 @@
 <a href="https://twitter.com/_sireeshamodi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sireeshamodi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/modi sireesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="modi sireesha" height="30" width="40" /></a>
 <a href="https://instagram.com/sireesha_modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sireesha_modi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/modisireesha09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="modisireesha09" height="30" width="40" /></a>
+
 </p>
 
 ---
